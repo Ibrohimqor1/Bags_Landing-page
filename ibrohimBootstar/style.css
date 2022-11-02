@@ -1,0 +1,77 @@
+*{
+    text-decoration: none
+    ;
+    list-style: none;
+}
+
+.card {
+   
+    padding: 25px;
+}
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+}
+ ul li a{
+    color: gold !important;
+    padding-left: 25px;
+}
+.img-1{
+    width: 80px;
+   
+}
+.icon-box{
+    font-size: 35px;
+    padding-left: 7px;
+    align-items: center;
+    width: 53px;
+    background: yellow;
+    height: 45px;
+}
+
+
+ .team-member-img img{
+    width: 330px;
+    height: 100%;
+ }
+.p-55{
+    background: rgb(216, 195, 5);
+   height: 150px;
+   width: 320px;
+ 
+}
+.p-44{
+    background: rgb(253, 239, 115);
+
+    height: 170px;
+    width: 320px;
+
+}
+.p-66{
+    background: rgb(253, 239, 115);
+   
+    margin-top: -20px;
+    width: 320px;
+    height: 160px;
+}
+.team{
+    flex-wrap: wrap;
+}
+.team-member-img img{
+    border-radius: 12px;
+}
+.hamma-team {
+  margin-left: 25px;
+}
+.team-cards{
+    display: flex;
+    justify-content: space-around;
+}
+.yout img{
+    width: 200px;
+    padding: 10px 30px;
+}
+.yout{
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
